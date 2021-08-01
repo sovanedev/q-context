@@ -2,7 +2,6 @@
 https://github.com/sovanedev
 =================================*\
 
-
 local qmenu_ranks = {
 ["founder"] = true,
 ["superadmin"] = true, 
